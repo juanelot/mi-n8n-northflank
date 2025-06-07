@@ -1,2 +1,2 @@
 FROM n8nio/n8n:latest
-EXPOSE 5678/tcp
+EXPOSE Target port: 5678  # ¡El mismo que EXPONE tu Dockerfile!
